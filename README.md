@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bengilman
-- 💻 HTML5, WordPress, Laravel, CraftCMS, Statamic, VueJS
+- 💻 HTML5, Laravel, PHP, CraftCMS, Statamic, VueJS, WordPress
 - 📫 Hire us at https://niceworkdigital.co.uk
 - 📍 East of England, UK
